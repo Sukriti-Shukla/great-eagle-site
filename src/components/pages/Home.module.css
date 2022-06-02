@@ -1,0 +1,11 @@
+.home {
+  margin-top: 30px;
+  margin-left: 40px;
+  width: 500px;
+  text-align: justify;
+  color: black;
+}
+
+.home p {
+  margin-top: 70px;
+}
